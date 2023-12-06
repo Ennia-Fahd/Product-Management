@@ -9,6 +9,7 @@
 #### /products/id --> list a product by his id.
 #### /users --> list all users.
 #### /users/id --> list user by id
+#### /products?_page=x_limit=y --> list all the products with pagination for the page x and with the size y.
 ## Interfaces 
 ### List all products
 ![ProdAPI](https://github.com/Ennia-Fahd/Product-Management/assets/92646945/f3a33a9b-883b-4720-b4c9-adb72620671e)
