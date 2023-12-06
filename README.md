@@ -1,8 +1,8 @@
 # Product-Management
 ## Instructions 
-#### Install dependencies : npm install 
-#### Run the server : ng serve
-#### Run the local json server : json-server -w  Data/db.json -p 8089 (8089 is the port of the server)
+#### -Install dependencies : npm install 
+#### -Run the server : ng serve
+#### -Run the local json server : json-server -w  Data/db.json -p 8089 (8089 is the port of the server)
 ## API :
 ### Conventions 
 #### /products --> list all of products.
